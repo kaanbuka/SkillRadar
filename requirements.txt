@@ -1,5 +1,4 @@
-# Tech-Stack NLP Analyzer (Germany Edition)
-# Veri Madenciliği, NLP, Dashboard
+# SkillRadar – Almanya iş ilanları yetenek analizi
 
 requests>=2.28.0
 pandas>=2.0.0

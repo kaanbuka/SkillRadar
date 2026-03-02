@@ -1,4 +1,4 @@
-# 🇩🇪 Tech-Stack NLP Analyzer
+# 🇩🇪 SkillRadar
 
 > Almanya'daki Data Science ve Yazılım iş ilanlarından **en çok aranan yetenekleri** otomatik olarak çıkaran NLP projesi. İş piyasası trendlerini veriye dayalı analiz eder.
 
@@ -99,8 +99,8 @@ Bu proje, Almanya'daki Data Science, Software Engineering ve ilgili alanlardaki 
 ## Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI/Tech-Stack-NLP-Analyzer.git
-cd Tech-Stack-NLP-Analyzer
+git clone https://github.com/KULLANICI/SkillRadar.git
+cd SkillRadar
 pip install -r requirements.txt
 ```
 
@@ -152,7 +152,7 @@ Dashboard’da **"AI ile Eksik Yetenekleri Bul"** ile regex’in kaçırdığı 
 ## Proje Yapısı
 
 ```
-Tech-Stack-NLP-Analyzer/
+SkillRadar/
 ├── config.py              # API anahtarları, path’ler, arama sorguları
 ├── data_fetcher.py        # Faz 1: Adzuna API ile veri çekme
 ├── nlp_engine.py          # Faz 2: Regex + fallback yetenek çıkarma

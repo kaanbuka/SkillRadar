@@ -21,7 +21,7 @@ except ImportError:
     AI_AVAILABLE = False
     AI_CONFIGURED = False
 
-st.set_page_config(page_title="Tech-Stack NLP Analyzer", page_icon="🇩🇪", layout="wide")
+st.set_page_config(page_title="SkillRadar", page_icon="🇩🇪", layout="wide")
 
 
 def load_data():
@@ -40,7 +40,7 @@ def load_data():
 
 
 def main():
-    st.title("Tech-Stack NLP Analyzer (Germany Edition)")
+    st.title("SkillRadar – Almanya Yetenek Analizi")
     st.markdown("*Almanya veri bilimi / yazılım ilanlarından en çok aranan yetenekler*")
 
     jobs, df_jobs, df_skills = load_data()
