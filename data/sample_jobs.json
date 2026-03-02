@@ -1,0 +1,5 @@
+[
+  {"id": "1", "title": "Data Scientist (m/f/d)", "description": "We need Python, SQL, TensorFlow, AWS and Machine Learning. German B2 required.", "company": "Tech Corp", "location": "Berlin", "query": "Data Science", "city": "Berlin"},
+  {"id": "2", "title": "Software Engineer Python", "description": "Python, Docker, Kubernetes, REST API. Fluent German or English.", "company": "Startup GmbH", "location": "München", "query": "Python Developer", "city": "München"},
+  {"id": "3", "title": "ML Engineer", "description": "PyTorch, scikit-learn, Pandas, SQL, GCP. German C1 preferred.", "company": "AI Labs", "location": "Frankfurt", "query": "Machine Learning", "city": "Frankfurt"}
+]

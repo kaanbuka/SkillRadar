@@ -1,0 +1,11 @@
+.env
+.env.local
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.log
+data/jobs_raw.json
+data/jobs_processed.csv
+data/skills_counts.csv
+.DS_Store
